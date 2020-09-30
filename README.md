@@ -1,2 +1,2 @@
-# free_code_camp
+# tribute_page
 freeCodeCamp.org projects
