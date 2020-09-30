@@ -16,7 +16,7 @@ html {
   }
   #nav-bar-list li {
     display: inline-block;
-    font-size: smaller;
+    font-size: large;
     line-height: 15px;
     padding: 2px;
   }
