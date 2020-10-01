@@ -1,81 +1,87 @@
 html {
-    font-family: times, arial;
-    background-color: black;
-    color: white;
-  }
-  body {
-    text-align: justify;
-  }
-  #nav-bar-div{
-    text-align: center;
-  }
-  #nav-bar-list {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
-  #nav-bar-list li {
-    display: inline-block;
-    font-size: large;
-    line-height: 15px;
-    padding: 2px;
-  }
-  #nav-bar-list .btn{
-    text-decoration: none;
-    color: silver;
-    font-weight: bold;
-  }
-  #nav-bar-list .btn:hover {
-    font-variant-caps: all-petite-caps;
-    color: royalblue; 
-  }
-  img {
-    display: block;
-    width: 75vw;
-    height: auto;
-    max-width: 700px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  .caption {
-    width: 75vw;
-    max-width: 700px;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    font-size: small;
-    color: silver;
-  }
-  h2 {
-    text-align: center;
-    font-size: large;
-    font-variant-caps: all-petite-caps;
-  }
-  h3 {
-    text-align: center;
-    font-size: large;
-    font-variant-caps: all-petite-caps;
-  }
-  h4 {
-    font-size: medium;
-    width: 95vw;
-    margin-left: auto;
-    margin-right: auto;
-    font-variant-caps: all-petite-caps;
-  }
-  p {
-    font-size: medium;
-    width: 95vw;
-    margin-left: auto;
-    margin-right:auto;
-  }
-p a {
+  font-family: times, arial;
+  background-color: black;
+  color: white;
+}
+body {
+  text-align: justify;
+}
+#nav-bar-div{
+  text-align: center;
+}
+#nav-bar-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+#nav-bar-list li {
+  display: inline-block;
+  font-size: large;
+  line-height: 15px;
+  padding: 2px;
+}
+#nav-bar-list .btn{
   text-decoration: none;
-  color: royalblue;
+  color: silver;
+  font-weight: bold;
+}
+#nav-bar-list .btn:hover {
+  font-variant-caps: all-petite-caps;
+  color: royalblue; 
+}
+img {
+  display: block;
+  width: 75vw;
+  height: auto;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.caption {
+  width: 75vw;
+  max-width: 700px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: small;
+  color: silver;
+}
+h2 {
+  text-align: center;
+  font-size: large;
+  font-variant-caps: all-petite-caps;
+}
+h3 {
+  text-align: center;
+  font-size: large;
+  font-variant-caps: all-petite-caps;
+}
+h4 {
+  font-size: medium;
+  width: 95vw;
+  margin-left: auto;
+  margin-right: auto;
+  font-variant-caps: all-petite-caps;
+}
+p {
+  font-size: medium;
+  width: 95vw;
+  margin-left: auto;
+  margin-right:auto;
+}
+p a {
+text-decoration: none;
+color: royalblue;
 }
 p a:hover{
-  font-variant-caps:  all-petite-caps;
+font-variant-caps:  all-petite-caps;
 }
-  #releases-list {
-    list-style-type: none;
-  }
+#releases-list {
+  list-style-type: none;
+}
+#memorials-text4-obama-letter {
+font-variant-caps: all-petite-caps;
+width: 50vw;
+font-style: oblique;
+color: lightskyblue;
+}
